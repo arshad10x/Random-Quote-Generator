@@ -1,1 +1,1 @@
-# [Quote-Generator (https://awesome-ptolemy-f015fd.netlify.app/)] 
+# [Quote-Generator](https://awesome-ptolemy-f015fd.netlify.app/)
